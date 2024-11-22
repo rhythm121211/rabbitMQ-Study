@@ -1,0 +1,13 @@
+node_modules
+swagger.json
+node_modules/**.*
+src/public/image
+.DS_Store
+db-data
+swagger.json
+launch.json
+**.env
+**package-lock.json
+test/
+logs/
+.vscode/**.*
